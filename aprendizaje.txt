@@ -1,0 +1,5 @@
+node -v //ver la version instalada de node
+nvm use 16 //si quiere usarla
+npm -v //ver version de npm
+npm install para instalar cualquier paquete
+node myfile.js //para correr ese archivo
